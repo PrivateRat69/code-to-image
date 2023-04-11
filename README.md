@@ -8,7 +8,7 @@ Then, install the dependencies `npm i puppeteer`
 
 Now, import the function `generateImage` into your project:
 ```ts
-import { generateImage } from "code-to-image"
+const generateImage = require("code-to-image");
 ```
 And begin using it!
 
