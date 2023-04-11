@@ -1,11 +1,14 @@
 {
   "name": "code-to-image",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Create an image based on your code!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "PrivateRat69",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "19.8.5"
+  }
 }
