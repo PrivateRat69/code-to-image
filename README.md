@@ -6,7 +6,7 @@ Ever wondered how to make those *beautiful* images you see online of people's co
 First, install this package using `npm i code-to-image`
 Then, install the dependencies `npm i puppeteer`
 
-Now, import the function `generateImage` into your project:
+Now, require the function `generateImage` into your project:
 ```ts
 const generateImage = require("code-to-image");
 ```
