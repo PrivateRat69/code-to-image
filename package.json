@@ -1,6 +1,6 @@
 {
   "name": "code-to-image",
-  "version": "2.1.1",
+  "version": "3.0.0",
   "description": "Create an image based on your code!",
   "main": "index.js",
   "scripts": {
